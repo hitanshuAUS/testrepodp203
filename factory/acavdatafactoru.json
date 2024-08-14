@@ -1,0 +1,9 @@
+{
+	"name": "acavdatafactoru",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "09410fb2-ad73-4d45-8d74-d4aa4e7f4d7d",
+		"tenantId": "84f1e4ea-8554-43e1-8709-f0b8589ea118"
+	}
+}
